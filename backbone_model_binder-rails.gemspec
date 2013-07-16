@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["anti191@gmail.com"]
   spec.description   = %q{Backbone.ModelBinding for Rails}
   spec.summary       = %q{Vendors Backbone.ModelBinding for use with the asset pipeline.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/antonypp/backbone_model_binder-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

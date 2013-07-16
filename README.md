@@ -1,6 +1,5 @@
-# BackboneModelBinder::Rails
-
-TODO: Write a gem description
+# BackboneModelBinder Rails
+Easily setup and use Backbone.ModelBinding with rails 3.1 and greater
 
 ## Installation
 
@@ -18,7 +17,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add to application.js 
+
+  //= require Backbone.ModelBinder
 
 ## Contributing
 
